@@ -1,4 +1,5 @@
 ## HTML and CSS Course Materials
+
 📚 Watch the course here: https://youtu.be/G3e-cpL7ofc
 
 1. [Exercise solutions](1-exercise-solutions)
