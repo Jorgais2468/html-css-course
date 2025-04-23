@@ -1,0 +1,26 @@
+p {
+  font-family: Arial;
+  margin: 0;
+}
+
+.text-price {
+  font-size: 35px;
+}
+
+.text-currency {
+  color: #636363;
+  font-size: 16px;
+}
+
+.text-value-today {
+  color: #3c7e40;
+  margin: 10px 0;
+}
+
+.text-after {
+  color: #636363;
+}
+
+.text-value-after {
+  color: #d83d34;
+}
