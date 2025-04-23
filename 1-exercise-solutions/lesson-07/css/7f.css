@@ -1,0 +1,28 @@
+p {
+  font-family: Arial;
+  color: #636363;
+  margin: 0;
+}
+
+input {
+  border: 2px solid #636363;
+  border-radius: 3px;
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  width: 400px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #2d64bc;
+  color: white;
+  border: none;
+  padding: 15px 0px;
+  font-size: 18px;
+  width: 400px;
+  border-radius: 50px;
+  margin-top: 15px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
