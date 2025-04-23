@@ -1,0 +1,29 @@
+p {
+  font-family: Arial;
+  font-size: 35px;
+  margin: 5px 0;
+}
+
+input {
+  font-family: Arial;
+  background-color: #f0f0f0;
+  color: #757575;
+  border: none;
+  padding: 10px 15px;
+  display: block;
+  margin: 5px 0;
+  width: 300px;
+}
+
+button {
+  font-family: Arial;
+  margin-top: 25px;
+  padding: 15px 15px;
+  border: none;
+  cursor: pointer;
+}
+
+.button-request {
+  background-color: black;
+  color: white;
+}

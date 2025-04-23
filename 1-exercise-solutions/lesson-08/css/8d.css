@@ -1,0 +1,29 @@
+input {
+  color: #757475;
+  border: 1px solid #c8c8c8;
+  border-radius: 7px;
+  padding: 10px 12px;
+  margin: 0 0 10px 0;
+  box-sizing: border-box;;
+}
+
+.input-first-name, .input-last-name {
+  width: 128px;
+}
+
+.input-email {
+  display: block;
+  width: 260px;
+}
+
+button {
+  background-color: #3975ea;
+  color: white;
+  border: none;
+  border-radius: 7px;
+  padding: 10px 12px;
+  font-size: 16px;
+  font-weight: bold;
+  width: 260px;
+  cursor: pointer;
+}
