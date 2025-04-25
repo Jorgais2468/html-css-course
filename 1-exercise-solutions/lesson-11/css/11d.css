@@ -1,0 +1,62 @@
+.container {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  column-gap: 25px;
+}
+
+.friend-card {
+  width: 200px;
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.4);
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+p {
+  font-family: Arial;
+  margin: 0;
+}
+
+.friend-card-content {
+  padding: 5px 10px;
+}
+
+.text-name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.friend-card-row {
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: 30px 1fr;
+  align-items: center;
+  column-gap: 5px;
+}
+
+.friend-card-row img{
+  width: 25px;
+  height: 25px;
+  border-radius: 20px;
+}
+
+.text-num-friends {
+  color: #6f706f;
+  font-size: 16px;
+}
+
+button {
+  font-family: arial;
+  background-color: #3975ea;
+  color: white;
+  font-size: 16px;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 10px 0;
+  cursor: pointer;
+}
