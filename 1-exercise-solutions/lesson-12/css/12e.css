@@ -1,0 +1,25 @@
+div {
+  font-family: Arial;
+}
+
+.box {
+  border: 1px solid #d3d3d3;
+  border-radius: 7px;
+  padding: 0px 20px;
+}
+
+.section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px 0;
+  align-items: center;
+}
+
+.number-info {
+  background-color: #416cec;
+  color: white;
+  border-radius: 50px;
+  font-weight: bold;
+  padding: 5px 15px;
+}

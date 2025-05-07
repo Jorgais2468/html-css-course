@@ -1,0 +1,61 @@
+body {
+  font-family: Arial;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  margin: 10px 0;
+}
+
+.user {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.left-side {
+  width: 100px;
+}
+
+img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50px;
+  margin: 15px;
+}
+
+.user-info {
+  width: 200px;
+}
+
+.user-name {
+  color: #262626;
+  font-weight: bold;
+}
+
+.user-description {
+  color: #8e8e8e;
+}
+
+.user-type {
+  color: #8e8e8e;
+  font-size: 14px;
+}
+
+button {
+  background-color: #4193ef;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 15px;
+  cursor: pointer;
+}

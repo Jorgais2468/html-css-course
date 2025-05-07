@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  background-color: #7254ac;
+  padding: 5px 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+p {
+  color: white;
+  font-weight: bold;
+  width: 150px;
+}
+
+input {
+  border: none;
+  border-radius: 50px;
+  color: #757475;
+  padding: 10px 20px;
+  width: 500px;
+}
+
+button {
+  background-color: #7254ac;
+  border: 1px solid white;
+  border-radius: 2px;
+  color: white;
+  font-size: 16px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
